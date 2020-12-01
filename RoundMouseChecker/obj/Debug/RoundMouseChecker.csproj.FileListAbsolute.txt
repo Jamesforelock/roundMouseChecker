@@ -1,0 +1,11 @@
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\bin\Debug\RoundMouseChecker.exe.config
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\bin\Debug\RoundMouseChecker.exe
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\bin\Debug\RoundMouseChecker.pdb
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.Form1.resources
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.Properties.Resources.resources
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.csproj.GenerateResource.cache
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.csproj.CoreCompileInputs.cache
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.exe
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.pdb
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.RoundMouseContainer.resources
+G:\Мой диск\Visual programming\LW5\RoundMouseChecker\RoundMouseChecker\obj\Debug\RoundMouseChecker.csprojAssemblyReference.cache
